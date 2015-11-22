@@ -1,7 +1,7 @@
 hackersun.github.io
 ===================
-
-hackersun's Website
+<br />
+hackersun's Website on GitHub. ^_^
 <br />
 <br />
 <br />
@@ -11,4 +11,4 @@ hackersun's Website
 <br />
 <br />
 <br />
-Inspiration by @BeiYuu [BeiYuu](http://beiyuu.com), Thanks!
+Inspirated by [@BeiYuu](http://beiyuu.com), Thanks!
