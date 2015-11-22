@@ -89,7 +89,7 @@ pre ol{margin-left:25px;list-style-type:decimal;}
 .project .aside{
     background-image:url('../images/sideimg/3.jpeg')
 }
-.opinion .aside{
+.about .aside{
     background-image:url('../images/sideimg/2.jpeg');
 }
 
@@ -168,7 +168,7 @@ h3.about {color:#777;margin-top:20px;font-size:22px;margin-bottom:10px}
 
     .blog .aside,
     .project .aside,
-    .opinion .aside
+    .about .aside
 }
 
 @media (max-width: 1020px){
