@@ -83,10 +83,16 @@ pre ol{margin-left:25px;list-style-type:decimal;}
     background-size:cover;
     background-position:50% 50%;
 }
-/*.blog .aside{*/
-/*    background-image:url('../images/sideimg/1.jpeg');*/
-/*}*/
 .blog .aside{
+    background-image:url('../images/sideimg/1.jpeg');
+}
+.project .aside{
+    background-image:url('../images/sideimg/3.jpeg')
+}
+/*.about .aside{*/
+/*    background-image:url('../images/sideimg/2.jpeg');*/
+/*}*/
+.about .aside{
     position: fixed;
     top: 0;
     left: 0;
@@ -97,12 +103,6 @@ pre ol{margin-left:25px;list-style-type:decimal;}
     box-shadow:inset -1px 0 0 rgba(0,0,0,0.3);
     background-size:cover;
     background-position:50% 50%;
-}
-.project .aside{
-    background-image:url('../images/sideimg/3.jpeg')
-}
-.about .aside{
-    background-image:url('../images/sideimg/2.jpeg');
 }
 
 .index-content .section { margin-left:30%; padding-top:80px; padding-right:15%; ;}
