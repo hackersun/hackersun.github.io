@@ -1,13 +1,9 @@
 hackersun.github.io
 ===================
 <br />
-hackersun's Website on GitHub. ^_^
+[hackersun's Website](http://hackersun.github.io/) on GitHub. 
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
+<br />^_^
 <br />
 <br />
 <br />
