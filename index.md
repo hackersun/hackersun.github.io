@@ -1,6 +1,17 @@
 ---
 layout: home
 ---
+<link rel="stylesheet" href="/js/prettify/prettify.css" />
+<style type="text/css">
+    body { background:#e8e8e8; }
+    @media screen and (max-width: 750px){
+        body { background:#fff; }
+    }
+    @media screen and (max-width: 1020px){
+        body { background:#fff; }
+    }
+</style>
+
 <div id="homepage">
     <div class="index-content blog">
         <div class="section">
