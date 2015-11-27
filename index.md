@@ -1,9 +1,6 @@
 ---
 layout: home
 ---
----
-layout: home
----
 <div class"homepage">
     <div class="index-content blog">
         <div class="section">
