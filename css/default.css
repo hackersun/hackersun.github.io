@@ -94,8 +94,8 @@ pre ol{margin-left:25px;list-style-type:decimal;}
 }
 */
 /*.index-content .section { margin-left:30%; padding-top:80px; padding-right:15%; ;}*/
-.index-content .section {margin-bottom:80px;width:680px; float:left; background:#fff; padding:30px; box-shadow:0 2px 6px #ccc; }
-.index-content .artical-list { width:70%; margin:0 auto; }
+.index-content .section {margin-bottom:80px;width:880px; float:left; background:#fff; padding:30px; box-shadow:0 2px 6px #ccc; }
+.index-content .artical-list { width:80%; margin:0 auto; }
 .index-content .artical-list li { margin-bottom:70px; }
 .index-content h2 { font-size:20px; margin-bottom:15px; word-break: break-all;}
 .index-content h2 a { color:#444 }
