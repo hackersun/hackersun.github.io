@@ -70,7 +70,7 @@ pre ol{margin-left:25px;list-style-type:decimal;}
 .entry blockquote{margin-left:25px;font-size:14px;font-style:italic}
 .entry img{max-width:670px;display:block;margin:10px auto;}
 
-
+/**
 .index-content .aside {
     position: fixed;
     top: 0;
@@ -92,7 +92,7 @@ pre ol{margin-left:25px;list-style-type:decimal;}
 .about .aside{
     background-image:url('../images/sideimg/2.jpg');
 }
-
+**/
 .index-content .section { margin-left:30%; padding-top:80px; padding-right:15%; ;}
 
 .index-content .artical-list { width:70%; margin:0 auto; }
