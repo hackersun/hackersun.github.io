@@ -6,9 +6,9 @@ layout: home
         <div class="section">
             <ul class="artical-cate">
                 <li class="on"><a href="/"><span>首页</span></a></li>
-                <li ><a href="/indexes/categories.md"><span>分类目录</span></a></li>
-                <li ><a href="/indexes/archives.md"><span>文章归档</span></a></li>
-                <li ><a href="/indexes/index"><span>联系我</span></a></li>
+                <li ><a href="/categories"><span>分类目录</span></a></li>
+                <li ><a href="/archives"><span>文章归档</span></a></li>
+                <li ><a href="/about"><span>联系我</span></a></li>
             </ul>
 
             <div class="cate-bar"><span id="cateBar"></span></div>
@@ -22,7 +22,6 @@ layout: home
             {% endfor %}
             </ul>
         </div>
-        <!--<div class="aside"></div>-->
     </div>
     <div class="sidenav">
         <dd class="avatar-container clearfix">
