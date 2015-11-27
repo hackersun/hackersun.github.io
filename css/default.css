@@ -53,7 +53,7 @@ pre ol{margin-left:25px;list-style-type:decimal;}
 
 /************layout style*****************/
 #content {width:1060px;margin:90px auto 60px;min-height:400px;height:auto !important;height:400px; }
-.index-content {width:1060px;margin:90px auto 60px;min-height:400px;height:auto !important;height:400px; }
+#homepage {width:1060px;margin:90px auto 60px;min-height:400px;height:auto !important;height:400px; }
 
 /****************entry style**************/
 .sidenav { width:240px; background:#fff; float:right; padding:20px; margin-bottom:50px; box-shadow:0 1px 4px #ccc; }
