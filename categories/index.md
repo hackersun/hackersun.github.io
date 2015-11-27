@@ -5,8 +5,8 @@ layout: home
     <div class="index-content blog">
         <div class="section">
             <ul class="artical-cate">
-                <li class="on"><a href="/"><span>首页</span></a></li>
-                <li ><a href="/categories"><span>分类目录</span></a></li>
+                <li ><a href="/"><span>首页</span></a></li>
+                <li class="on"><a href="/categories"><span>分类目录</span></a></li>
                 <li ><a href="/archives"><span>文章归档</span></a></li>
                 <li ><a href="/about"><span>联系我</span></a></li>
             </ul>
