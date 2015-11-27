@@ -16,9 +16,10 @@ layout: home
     <div class="index-content blog">
         <div class="section">
             <ul class="artical-cate">
-                <li class="on"><a href="/"><span>Blog</span></a></li>
-                <li style="text-align:center"><a href="/project"><span>Project</span></a></li>
-                <li style="text-align:right"><a href="/about"><span>About</span></a></li>
+                <li class="on"><a href="/"><span>首页</span></a></li>
+                <li style="text-align:center"><a href="/project"><span>分类目录</span></a></li>
+                <li style="text-align:center"><a href="/project"><span>文章归档</span></a></li>
+                <li style="text-align:right"><a href="/about"><span>联系我</span></a></li>
             </ul>
 
             <div class="cate-bar"><span id="cateBar"></span></div>
