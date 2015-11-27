@@ -8,7 +8,7 @@ layout: home
                 <li class="on"><a href="/"><span>首页</span></a></li>
                 <li ><a href="/indexes/categories.md"><span>分类目录</span></a></li>
                 <li ><a href="/indexes/archives.md"><span>文章归档</span></a></li>
-                <li ><a href="/indexes/index.md"><span>联系我</span></a></li>
+                <li ><a href="/indexes/index"><span>联系我</span></a></li>
             </ul>
 
             <div class="cate-bar"><span id="cateBar"></span></div>
