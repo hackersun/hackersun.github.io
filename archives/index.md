@@ -6,7 +6,7 @@ layout: home
     <div class="index-content archives">
         <div class="section">
             <ul class="artical-cate">
-                <li ><a href="/"><span>博客首页</span></a></li>
+                <li ><a href="/"><span>首 页</span></a></li>
                 <li ><a href="/categories"><span>分类目录</span></a></li>
                 <li class="on"><a href="/archives"><span>文章归档</span></a></li>
                 <li ><a href="/about-me"><span>联系我</span></a></li>
