@@ -2,7 +2,53 @@
 layout:           default
 ---
 
-{{ content }}
+<!--{{ content }}-->
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>{{ site.title }}</title>
+    <meta name="author" content="hackersun" />
+    <meta name="renderer" content="webkit">
+    <meta name="description" content="hackersun's Blog" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+    <link rel="stylesheet" href="/css/default.css" type="text/css" />
+    <link rel="shortcut icon" href="../images/favicon.ico" type="image/x-icon" />
+    <link rel="alternate" type="application/atom+xml" title="Recent Entries" href="{{ site.feed }}" />
+    <script src="/js/jquery-1.7.1.min.js" type="text/javascript"></script>
+</head>
+<body>
+
+    <div class="home-menu">
+        <div class="home-icon-con">
+            <a class="home-menu-icon" href="/">hackersun</a>
+            <a class="home-follow" href="#" title="Contact Me">+</a>
+        </div>
+        <div class="home-contact">
+            <a href="https://www.linkedin.com/in/sunguoli" target="_blank" style="margin-left:-5px;"><img src="https://static.licdn.com/scds/common/u/images/logos/favicons/v1/favicon.ico" alt="" width="25"/></a>
+            <a href="http://blog.csdn.net/doc_sgl" target="_blank" style="text-align:center;"><img src="http://blog.csdn.net/favicon.ico" alt="" width="22"/></a>
+            <a href="https://github.com/hackersun" target="_blank" style="margin-left:-5px;"><img src="https://github.com/favicon.ico" alt="" width="25"/></a>
+        </div>
+    </div>
+
+    {{ content }}
+
+    <script type="text/javascript">
+        $(function(){
+            $('.home-follow').click(function(e){
+                e.preventDefault();
+                if($('.home-contact').is(':visible')){
+                    $('.home-contact').slideUp(100);
+                }else{
+                    $('.home-contact').slideDown(100);
+                }
+            });
+        })
+    </script>
+</body>
+</html>
+
 
 <script type="text/javascript">
     $(function(){
