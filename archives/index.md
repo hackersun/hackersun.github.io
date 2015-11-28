@@ -2,22 +2,11 @@
 layout: home
 ---
 
-<link rel="stylesheet" href="/js/prettify/prettify.css" />
-<style type="text/css">
-    body { background:#e8e8e8; }
-    @media screen and (max-width: 750px){
-        body { background:#fff; }
-    }
-    @media screen and (max-width: 1020px){
-        body { background:#fff; }
-    }
-</style>
-
 <div id="homepage">
     <div class="index-content archives">
         <div class="section">
             <ul class="artical-cate">
-                <li ><a href="/"><span>首页</span></a></li>
+                <li ><a href="/"><span>博客首页</span></a></li>
                 <li ><a href="/categories"><span>分类目录</span></a></li>
                 <li class="on"><a href="/archives"><span>文章归档</span></a></li>
                 <li ><a href="/about-me"><span>联系我</span></a></li>
