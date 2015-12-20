@@ -1,10 +1,10 @@
 ---
 layout:     post
-title:      一步步实现Java注解（Java Annotation in Action）
+title:      自己动手实现Java注解（Java Annotation in Action）
 category: blog
-description: 叫你一步步实现Java注解
+description: 教你如何一步步实现Java注解
 ---
-#一步步实现Java注解（Java Annotation in Action）
+
 ##引子
 写代码的每个同学估计都对注解（annotation）并不陌生，至少也用过@Override这样的注解。Java中的注解是个很神奇的东西，用了注解就可以少些很多代码，但是有没有想过这些注解呢如何实现的呢？这篇文章就带你走进Java注解的世界。本文的所有代码都在我的GitHub上的[annokit][1]里面，欢迎star和fork and pull request。
 ##Java注解介绍
